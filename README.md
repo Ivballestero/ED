@@ -1,8 +1,6 @@
-# ED
+```csharp
+Console.log("Prácticas de ED");
+Console.WriteLine("**********");
+```
 
-  ```csharp
-  Console.log("Prácticas de ED");
-  Console.WriteLine("**********");
-  ```
-  
-  # Repositorio para entregar prácticas de ED
+# Repositorio para entregar prácticas de ED
